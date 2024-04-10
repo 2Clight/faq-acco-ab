@@ -57,6 +57,7 @@ p{
 .logo{
     display: flex;
     padding: 1rem 0 2rem;
+    font-size:2rem;
 }
 .each_question{
     display: flex;
