@@ -21,6 +21,7 @@ body{
     background-color: var(--clr-light-pink);
     font-family: "Work Sans", sans-serif;
     font-size: 16px;
+    padding:0 1rem;
 }
 h3{
     font-weight: var(--fw-semi-bold);
@@ -47,7 +48,7 @@ p{
 }
 .container{
     
-    max-width:35rem;
+    max-width:39rem;
     background-color: var(--clr-white);
     margin: 8rem auto;
     padding: 0.5rem 1rem;
