@@ -64,7 +64,7 @@ p{
     justify-content: space-between;
     border-top: 1px solid var(--clr-grayish-purple);
     padding: 1rem 0;
-   
+    cursor:pointer;
 }
 .each_question:nth-child(1){
     border-top: none;
