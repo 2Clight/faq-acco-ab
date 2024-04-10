@@ -23,12 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
       closeIcon.classList.toggle("show");
   }
 
-  // Attach event listeners to icons
-  icons.forEach((icon, index) => {
-      icon.addEventListener("click", () => {
-          toggleContent(index);
-      });
-  });
+
 
   // Attach event listeners to questions
   questions.forEach((question, index) => {
